@@ -5,9 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: print greeting
-      - run: echo "good morning"
+        run: echo "good morning"
       - name: print value
-      - run: echo "bye"
+        run: echo "bye"
  
 
     
